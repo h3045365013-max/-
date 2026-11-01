@@ -1,0 +1,23 @@
+[
+  {"id":"kaoyan","name":"考研核心","tag":"考研","words":[
+    {"word":"abandon","phonetic":"/əˈbændən/","meaning":"放弃；遗弃","sentence":"She had to abandon the plan when circumstances changed.","sentenceCn":"情况发生变化后，她不得不放弃这个计划。","tag":"考研"},
+    {"word":"approach","phonetic":"/əˈproʊtʃ/","meaning":"接近；方法","sentence":"We need a new approach to solve this problem.","sentenceCn":"我们需要一种新方法来解决这个问题。","tag":"考研"},
+    {"word":"contribute","phonetic":"/kənˈtrɪbjuːt/","meaning":"贡献；促成","sentence":"Small daily actions can contribute to lasting change.","sentenceCn":"每天的小行动也能促成持久的改变。","tag":"考研"},
+    {"word":"significant","phonetic":"/sɪɡˈnɪfɪkənt/","meaning":"重要的；显著的","sentence":"The study found a significant difference between the groups.","sentenceCn":"研究发现各组之间存在显著差异。","tag":"考研"},
+    {"word":"maintain","phonetic":"/meɪnˈteɪn/","meaning":"维持；主张","sentence":"It is important to maintain a healthy balance.","sentenceCn":"保持健康的平衡很重要。","tag":"考研"}
+  ]},
+  {"id":"cet4","name":"四级高频","tag":"四级","words":[
+    {"word":"improve","phonetic":"/ɪmˈpruːv/","meaning":"改善；提高","sentence":"Reading every day can improve your vocabulary.","sentenceCn":"每天阅读能够提升你的词汇量。","tag":"四级"},
+    {"word":"possible","phonetic":"/ˈpɑːsəbəl/","meaning":"可能的","sentence":"Is it possible to finish the work by Friday?","sentenceCn":"有可能在周五前完成这项工作吗？","tag":"四级"},
+    {"word":"environment","phonetic":"/ɪnˈvaɪrənmənt/","meaning":"环境","sentence":"Everyone can help protect the environment.","sentenceCn":"每个人都能为保护环境出一份力。","tag":"四级"},
+    {"word":"opportunity","phonetic":"/ˌɑːpərˈtuːnəti/","meaning":"机会","sentence":"The course offers an opportunity to practice speaking.","sentenceCn":"这门课程提供了练习口语的机会。","tag":"四级"},
+    {"word":"experience","phonetic":"/ɪkˈspɪriəns/","meaning":"经历；经验","sentence":"Travel is a wonderful way to gain experience.","sentenceCn":"旅行是积累经验的好方式。","tag":"四级"}
+  ]},
+  {"id":"ielts","name":"雅思进阶","tag":"雅思","words":[
+    {"word":"urban","phonetic":"/ˈɜːrbən/","meaning":"城市的","sentence":"Urban areas often provide better access to public transport.","sentenceCn":"城市地区通常更容易使用公共交通。","tag":"雅思"},
+    {"word":"sustainable","phonetic":"/səˈsteɪnəbəl/","meaning":"可持续的","sentence":"The city is investing in sustainable energy sources.","sentenceCn":"这座城市正在投资可持续能源。","tag":"雅思"},
+    {"word":"evidence","phonetic":"/ˈevɪdəns/","meaning":"证据；迹象","sentence":"There is growing evidence that sleep supports learning.","sentenceCn":"越来越多的证据表明，睡眠有助于学习。","tag":"雅思"},
+    {"word":"diverse","phonetic":"/daɪˈvɜːrs/","meaning":"多样的","sentence":"The region is home to a diverse range of wildlife.","sentenceCn":"这个地区栖息着种类繁多的野生动物。","tag":"雅思"},
+    {"word":"impact","phonetic":"/ˈɪmpækt/","meaning":"影响；作用","sentence":"Technology has had a major impact on modern education.","sentenceCn":"科技对现代教育产生了重大影响。","tag":"雅思"}
+  ]}
+]
